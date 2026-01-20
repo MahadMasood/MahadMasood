@@ -1,18 +1,19 @@
 # Hi there, I'm Mahad Masood 👋
 
-### Software Engineer | Full-Stack Developer | MERN Stack Specialist | React Native Developer
+### Software Engineer | Full-Stack Developer | MERN Stack Specialist
 
-I'm a passionate software engineer focused on building scalable web applications and exploring modern development technologies. Currently diving deep into desktop application development with Electron.js while strengthening my expertise in system design.
+I'm a passionate software engineer focused on building scalable web and mobile applications using modern development technologies. With expertise in React Native for cross-platform mobile development and currently diving deep into desktop application development with Electron.js, I'm strengthening my expertise in system design and full-stack architecture.
 
 ---
 
 ## 🚀 About Me
 
 - 💼 Currently working as a **Software Engineer**
-- 🔭 Specializing in **MERN Stack** development
+- 🔭 Specializing in **MERN Stack** development and **React Native** for mobile apps
+- 📱 Building cross-platform mobile applications with **React Native**
 - 🌱 Learning **Electron.js** for cross-platform desktop applications
 - 🎯 Seeking to deepen my knowledge in **System Design** and scalable architectures
-- 🤝 Open to collaborating on **MERN stack projects** and innovative web applications
+- 🤝 Open to collaborating on **MERN stack projects**, **React Native apps**, and innovative web applications
 - 📫 Reach me at: **[mahadmasood85@gmail.com](mailto:mahadmasood85@gmail.com)**
 
 ---
